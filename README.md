@@ -1,6 +1,5 @@
 
 # meta-repo
----
 
 * **included**: a list of my repos + descriptions
 * **not included**: some private repos I didn't want to include in `meta-repo`.
@@ -53,5 +52,4 @@
   My solutions to psets from  Algorithms with Kevin Gold.
 
 - [`easy-animator`](https://github.com/atharvashukla/easy-animator)
-  Animation engine from Object Oriented Design with Rahul Suryadevara
----
+  Animation engine from Object Oriented Design made with Rahul Suryadevara
