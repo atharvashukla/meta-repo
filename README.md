@@ -33,14 +33,14 @@
 
 - [`database`](https://github.com/atharvashukla/database)
   A custom database in Racket.
+  
+- [`koans`](https://github.com/atharvashukla/koans)
+  Clojure exercises.
 
 ##### Private
 
 - [`racketo`](https://github.com/atharvashukla/racketo)
   An object system in racket using Macros.
-
-- [`koans`](https://github.com/atharvashukla/koans)
-  Clojure exercises.
 
 - [`macros`](https://github.com/atharvashukla/macros)
   Some Racket macros
