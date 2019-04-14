@@ -2,7 +2,7 @@
 # meta-repo
 
 * **included**: a list of my repos + descriptions
-* **not included**: some private repos I didn't want to include in `meta-repo`.
+* **not included**: some repos I didn't want to include in `meta-repo`.
 
 ##### Public
 
