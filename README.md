@@ -10,7 +10,7 @@
   This. A list of my repos hosted on Github.
 
 - [`ml-for-the-working-programmer`](https://github.com/atharvashukla/ml-for-the-working-programmer)
-  Exercises from "[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)" by [L.C. Paulson](https://www.cl.cam.ac.uk/~lp15/).
+  Code from "[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)" by [L.C. Paulson](https://www.cl.cam.ac.uk/~lp15/).
 
 - [`verif`](https://github.com/atharvashukla/verif)
   Proofs and theory from "Reasoning about Programs" by [Pete Manolios](http://www.ccs.neu.edu/~pete/)."
