@@ -1,7 +1,5 @@
-```
------------------
-Table of Contents
------------------
+
+#### Table of Contents
 
 
 - [`meta-repo`](https://github.com/atharvashukla/meta-repo)
@@ -43,6 +41,3 @@ Configurations
 - [`atharva-emacs`](https://github.com/atharvashukla/atharva-emacs)
 
 - [`yasnippet-snippets`](https://github.com/atharvashukla/yasnippet-snippets)
-
-
-```
