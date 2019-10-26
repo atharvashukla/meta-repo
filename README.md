@@ -1,10 +1,5 @@
-
-# meta-repo
-
-* **included**: a list of my repos + descriptions
-* **not included**: some repos I didn't want to include in `meta-repo`.
-
-##### Public
+Public Repositories 
+Table of Contents
 
 - [`meta-repo`](https://github.com/atharvashukla/meta-repo)
   This. A list of my repos hosted on Github.
@@ -36,20 +31,3 @@
   
 - [`koans`](https://github.com/atharvashukla/koans)
   [Clojure Koans](http://clojurekoans.com) exercises.
-
-##### Private
-
-- [`racketo`](https://github.com/atharvashukla/racketo)
-  An [object system](https://course.ccs.neu.edu/cs2510/lecture34.html) in racket using Macros.
-
-- [`macros`](https://github.com/atharvashukla/macros)
-  Some Racket [macros](https://docs.racket-lang.org/guide/macros.html).
-
-- [`fundies-1`](https://github.com/atharvashukla/fundies-1)
-  Solutions to "[How to Design Programs, 2nd Edition](https://htdp.org)" by [Felleisen](https://felleisen.org/matthias/) et al.
-
-- [`algo`](https://github.com/atharvashukla/algo)
-  My solutions to psets from Algorithms with [Kevin Gold](http://kevingold.net).
-
-- [`easy-animator`](https://github.com/atharvashukla/easy-animator)
-  Animation engine from [Object Oriented Design](https://course.ccs.neu.edu/cs3500/) made with [Rahul Suryadevara](https://github.com/rahuls1098)
