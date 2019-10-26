@@ -2,7 +2,7 @@
 -----------------
 Table of Contents
 -----------------
-```
+
 
 - [`meta-repo`](https://github.com/atharvashukla/meta-repo)
   This. A list of my repos hosted on Github.
@@ -43,3 +43,6 @@ Configurations
 - [`atharva-emacs`](https://github.com/atharvashukla/atharva-emacs)
 
 - [`yasnippet-snippets`](https://github.com/atharvashukla/yasnippet-snippets)
+
+
+```
