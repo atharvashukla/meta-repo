@@ -19,7 +19,7 @@
   Code snippets and notes on [`syntax-parse`](https://docs.racket-lang.org/syntax/stxparse.html).
 
 - [`database`](https://github.com/atharvashukla/database)
-  A custom [database](https://htdp.org/2019-02-24/part_four.html#%28part._db._sec~3aproj-db%29) in Racket.
+  A custom database
   
 - [`ml-for-the-working-programmer`](https://github.com/atharvashukla/ml-for-the-working-programmer)
   "[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)"
