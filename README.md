@@ -21,10 +21,10 @@ Table of Contents
   A custom [database](https://htdp.org/2019-02-24/part_four.html#%28part._db._sec~3aproj-db%29) in Racket.
   
 - [`ml-for-the-working-programmer`](https://github.com/atharvashukla/ml-for-the-working-programmer)
-  "[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)" by [L.C. Paulson](https://www.cl.cam.ac.uk/~lp15/).
+  "[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)"
 
 - [`verif`](https://github.com/atharvashukla/verif)
-  Proofs and theory from "Reasoning about Programs" by [Pete Manolios](http://www.ccs.neu.edu/~pete/)."
+  Proofs and theory from "Reasoning about Programs"
 
 - [`koans`](https://github.com/atharvashukla/koans)
   [Clojure Koans](http://clojurekoans.com) exercises.
