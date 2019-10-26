@@ -5,24 +5,22 @@
 - [`meta-repo`](https://github.com/atharvashukla/meta-repo)
   This. A list of my repos hosted on Github.
 
-- [`atharvashukla`](https://github.com/atharvashukla/atharvashukla)
-  Code for my [personal webiste](https://atharvashukla.com/).
+- [`atharvashukla`](https://github.com/atharvashukla/atharvashukla) personal website : atharvashukla.com
 
 - [`racket-hackerrank-solutions`](https://github.com/atharvashukla/racket-hackerrank-solutions)
   My [Hackerrank](https://www.hackerrank.com/atharvashukla) FP solutions in Racket
 
 - [`stackoverflow`](https://github.com/atharvashukla/stackoverflow)
   Code from [my stackoverflow answers](https://stackoverflow.com/users/8942807/atharva-shukla?tab=answers).
-  Each file corresponds to question id.
 
 - [`syntax-parse`](https://github.com/atharvashukla/syntax-parse)
-  Code snippets and notes on [`syntax-parse`](https://docs.racket-lang.org/syntax/stxparse.html).
+  Code snippets/notes on [`syntax-parse`](https://docs.racket-lang.org/syntax/stxparse.html).
 
 - [`database`](https://github.com/atharvashukla/database)
   A custom database
   
 - [`ml-for-the-working-programmer`](https://github.com/atharvashukla/ml-for-the-working-programmer)
-  "[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)"
+  Nice book on ML: [ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)
 
 - [`verif`](https://github.com/atharvashukla/verif)
   Proofs and theory from "Reasoning about Programs"
