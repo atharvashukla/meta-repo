@@ -8,6 +8,7 @@ This. A list of my repos hosted on Github.
 
 ###### [`bare-bones-site-generator`](https://github.com/atharvashukla/bare-bones-site-generator)
 Generates a static blog from a markdown "posts"
+
 ---
 
 ###### [`atharvashukla`](https://github.com/atharvashukla/atharvashukla) 
