@@ -30,12 +30,4 @@
 
 - [`99-problems`](https://github.com/atharvashukla/99-problems) [99 Lisp problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 
-Configurations
-
-- [`bash_profile`](https://github.com/atharvashukla/bash_profile)
-
-- [`git-config`](https://github.com/atharvashukla/git-config)
-
-- [`atharva-emacs`](https://github.com/atharvashukla/atharva-emacs)
-
-- [`yasnippet-snippets`](https://github.com/atharvashukla/yasnippet-snippets)
+Configurations: [`atharva-emacs`](https://github.com/atharvashukla/atharva-emacs), [`yasnippet-snippets`](https://github.com/atharvashukla/yasnippet-snippets)
