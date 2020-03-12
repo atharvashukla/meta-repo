@@ -1,7 +1,7 @@
 
 ---
 
-###### [`meta-repo`](https://github.com/atharvashukla/meta-repo)
+###### [`table-of-contents`](https://github.com/atharvashukla/meta-repo)
 This. A list of my repos hosted on Github.
 
 ---
