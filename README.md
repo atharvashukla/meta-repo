@@ -11,6 +11,31 @@ Generates a static blog from a markdown "posts"
 
 ---
 
+###### [`how-to-design-programs`](https://github.com/atharvashukla/how-to=design-programs)
+Solutions to all exercises and sample problems from the book [How to Design Programs](http://htdp.org/).
+
+---
+
+###### [`games`](https://github.com/atharvashukla/games)
+Interactive games in Racket and javascript using the "big-bang" model. 
+
+---
+
+###### [`logical-foundations`](https://github.com/atharvashukla/logical-foundations)
+Solutions to the book [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/)
+
+---
+
+###### [`class-system`](https://github.com/atharvashukla/class-system)
+Class system using Racket macros
+
+---
+
+###### [`tiger`](https://github.com/atharvashukla/tiger)
+The tiger compiler from the book [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml/).
+
+---
+
 ###### [`atharvashukla`](https://github.com/atharvashukla/atharvashukla) 
 personal website : atharvashukla.com
 
