@@ -1,266 +1,66 @@
-
----
-
-###### [`table-of-contents`](https://github.com/atharvashukla/meta-repo)
-This. A list of my repos hosted on Github.
-
----
-
-###### [`bare-bones-site-generator`](https://github.com/atharvashukla/bare-bones-site-generator)
-Generates a static blog from a markdown "posts"
-
----
-
-###### [`how-to-design-programs`](https://github.com/atharvashukla/how-to=design-programs)
-Solutions to all exercises and sample problems from the book [How to Design Programs](http://htdp.org/).
-
----
-
-###### [`games`](https://github.com/atharvashukla/games)
-Interactive games in Racket and javascript using the "big-bang" model. 
-
----
-
-###### [`logical-foundations`](https://github.com/atharvashukla/logical-foundations)
-Solutions to the book [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/)
-
----
-
-###### [`class-system`](https://github.com/atharvashukla/class-system)
-Class system using Racket macros
-
----
-
-###### [`tiger`](https://github.com/atharvashukla/tiger)
-The tiger compiler from the book [Modern Compiler Implementation in ML](https://www.cs.princeton.edu/~appel/modern/ml/).
-
----
-
-###### [`atharvashukla`](https://github.com/atharvashukla/atharvashukla) 
-personal website : atharvashukla.com
-
----
-
-###### [`racket-hackerrank-solutions`](https://github.com/atharvashukla/racket-hackerrank-solutions)
-My [Hackerrank](https://www.hackerrank.com/atharvashukla) FP solutions in Racket
-  
----
-
-###### [`stackoverflow`](https://github.com/atharvashukla/stackoverflow)
-Code from [my stackoverflow answers](https://stackoverflow.com/users/8942807/atharva-shukla?tab=answers).
-  
----
-
-###### [`syntax-parse`](https://github.com/atharvashukla/syntax-parse)
-Code snippets/notes on [`syntax-parse`](https://docs.racket-lang.org/syntax/stxparse.html).
-
----
-
-###### [`database`](https://github.com/atharvashukla/database)
-A custom database
-
----
-
-###### [`ml-for-the-working-programmer`](https://github.com/atharvashukla/ml-for-the-working-programmer)
-Nice book on ML: [ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)
-
----
-
-###### [`verif`](https://github.com/atharvashukla/verif)
-Proofs and theory from "Reasoning about Programs"
-
----
-
-###### [`koans`](https://github.com/atharvashukla/koans)
-[Clojure Koans](http://clojurekoans.com) exercises.
-
----
-
-###### [`99-problems`](https://github.com/atharvashukla/99-problems) 
-[99 Lisp problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
-
----
-
-Configurations: [`atharva-emacs`](https://github.com/atharvashukla/atharva-emacs), [`yasnippet-snippets`](https://github.com/atharvashukla/yasnippet-snippets)
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
+Repos 
+
+- [99-problems](https://github.com/atharvashukla/99-problems)
+- [add](https://github.com/atharvashukla/add)
+- [algo](https://github.com/atharvashukla/algo)
+- [atharva-emacs](https://github.com/atharvashukla/atharva-emacs)
+- [atharva-shukla](https://github.com/atharvashukla/atharva-shukla)
+- [atharvashukla](https://github.com/atharvashukla/atharvashukla)
+- [bare-bones-site-generator](https://github.com/atharvashukla/bare-bones-site-generator)
+- [chandramauli-shukla](https://github.com/atharvashukla/chandramauli-shukla)
+- [charvie-art](https://github.com/atharvashukla/charvie-art)
+- [charvie-shukla](https://github.com/atharvashukla/charvie-shukla)
+- [class-system](https://github.com/atharvashukla/class-system)
+- [college](https://github.com/atharvashukla/college)
+- [coq](https://github.com/atharvashukla/coq)
+- [coq-tactics-index](https://github.com/atharvashukla/coq-tactics-index)
+- [covid-indore](https://github.com/atharvashukla/covid-indore)
+- [cred](https://github.com/atharvashukla/cred)
+- [database](https://github.com/atharvashukla/database)
+- [drracket-sublime](https://github.com/atharvashukla/drracket-sublime)
+- [easy-animator](https://github.com/atharvashukla/easy-animator)
+- [felleisen-quotes](https://github.com/atharvashukla/felleisen-quotes)
+- [fundies-1](https://github.com/atharvashukla/fundies-1)
+- [game-programming](https://github.com/atharvashukla/game-programming)
+- [gig-women-essay](https://github.com/atharvashukla/gig-women-essay)
+- [hash-lang-studies](https://github.com/atharvashukla/hash-lang-studies)
+- [honr-3310](https://github.com/atharvashukla/honr-3310)
+- [how-to-design-programs](https://github.com/atharvashukla/how-to-design-programs)
+- [hw15](https://github.com/atharvashukla/hw15)
+- [koans](https://github.com/atharvashukla/koans)
+- [logic](https://github.com/atharvashukla/logic)
+- [logical-foundations](https://github.com/atharvashukla/logical-foundations)
+- [macro-blog](https://github.com/atharvashukla/macro-blog)
+- [macros](https://github.com/atharvashukla/macros)
+- [matthias-pl](https://github.com/atharvashukla/matthias-pl)
+- [minesweeper](https://github.com/atharvashukla/minesweeper)
+- [minesweeper-big-bang](https://github.com/atharvashukla/minesweeper-big-bang)
+- [ml-for-the-working-programmer](https://github.com/atharvashukla/ml-for-the-working-programmer)
+- [model-checking](https://github.com/atharvashukla/model-checking)
+- [my_proofs](https://github.com/atharvashukla/my_proofs)
+- [oshop](https://github.com/atharvashukla/oshop)
+- [p5js](https://github.com/atharvashukla/p5js)
+- [p5js-points](https://github.com/atharvashukla/p5js-points)
+- [pacman](https://github.com/atharvashukla/pacman)
+- [post-json](https://github.com/atharvashukla/post-json)
+- [ppl](https://github.com/atharvashukla/ppl)
+- [pragya-shukla](https://github.com/atharvashukla/pragya-shukla)
+- [pragyashukla](https://github.com/atharvashukla/pragyashukla)
+- [progress](https://github.com/atharvashukla/progress)
+- [racket-hackerrank-solutions](https://github.com/atharvashukla/racket-hackerrank-solutions)
+- [resume](https://github.com/atharvashukla/resume)
+- [scripts](https://github.com/atharvashukla/scripts)
+- [sean-website](https://github.com/atharvashukla/sean-website)
+- [st-xaviers-bms](https://github.com/atharvashukla/st-xaviers-bms)
+- [stackoverflow](https://github.com/atharvashukla/stackoverflow)
+- [startup](https://github.com/atharvashukla/startup)
+- [stats](https://github.com/atharvashukla/stats)
+- [syntax-parse](https://github.com/atharvashukla/syntax-parse)
+- [table-of-contents](https://github.com/atharvashukla/table-of-contents)
+- [table-sortable](https://github.com/atharvashukla/table-sortable)
+- [the-shuklas](https://github.com/atharvashukla/the-shuklas)
+- [theshuklas](https://github.com/atharvashukla/theshuklas)
+- [tiger](https://github.com/atharvashukla/tiger)
+- [tradeperry](https://github.com/atharvashukla/tradeperry)
+- [veer](https://github.com/atharvashukla/veer)
+- [yasnippet-snippets](https://github.com/atharvashukla/yasnippet-snippets)
