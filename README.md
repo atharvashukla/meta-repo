@@ -1,66 +1,38 @@
-Repos 
+# Table of Contents
 
-- [99-problems](https://github.com/atharvashukla/99-problems)
-- [add](https://github.com/atharvashukla/add)
-- [algo](https://github.com/atharvashukla/algo)
-- [atharva-emacs](https://github.com/atharvashukla/atharva-emacs)
-- [atharva-shukla](https://github.com/atharvashukla/atharva-shukla)
-- [atharvashukla](https://github.com/atharvashukla/atharvashukla)
-- [bare-bones-site-generator](https://github.com/atharvashukla/bare-bones-site-generator)
-- [chandramauli-shukla](https://github.com/atharvashukla/chandramauli-shukla)
-- [charvie-art](https://github.com/atharvashukla/charvie-art)
-- [charvie-shukla](https://github.com/atharvashukla/charvie-shukla)
-- [class-system](https://github.com/atharvashukla/class-system)
-- [college](https://github.com/atharvashukla/college)
-- [coq](https://github.com/atharvashukla/coq)
-- [coq-tactics-index](https://github.com/atharvashukla/coq-tactics-index)
-- [covid-indore](https://github.com/atharvashukla/covid-indore)
-- [cred](https://github.com/atharvashukla/cred)
-- [database](https://github.com/atharvashukla/database)
-- [drracket-sublime](https://github.com/atharvashukla/drracket-sublime)
-- [easy-animator](https://github.com/atharvashukla/easy-animator)
-- [felleisen-quotes](https://github.com/atharvashukla/felleisen-quotes)
-- [fundies-1](https://github.com/atharvashukla/fundies-1)
-- [game-programming](https://github.com/atharvashukla/game-programming)
-- [gig-women-essay](https://github.com/atharvashukla/gig-women-essay)
-- [hash-lang-studies](https://github.com/atharvashukla/hash-lang-studies)
-- [honr-3310](https://github.com/atharvashukla/honr-3310)
-- [how-to-design-programs](https://github.com/atharvashukla/how-to-design-programs)
-- [hw15](https://github.com/atharvashukla/hw15)
-- [koans](https://github.com/atharvashukla/koans)
-- [logic](https://github.com/atharvashukla/logic)
-- [logical-foundations](https://github.com/atharvashukla/logical-foundations)
-- [macro-blog](https://github.com/atharvashukla/macro-blog)
-- [macros](https://github.com/atharvashukla/macros)
-- [matthias-pl](https://github.com/atharvashukla/matthias-pl)
-- [minesweeper](https://github.com/atharvashukla/minesweeper)
-- [minesweeper-big-bang](https://github.com/atharvashukla/minesweeper-big-bang)
-- [ml-for-the-working-programmer](https://github.com/atharvashukla/ml-for-the-working-programmer)
-- [model-checking](https://github.com/atharvashukla/model-checking)
-- [my_proofs](https://github.com/atharvashukla/my_proofs)
-- [oshop](https://github.com/atharvashukla/oshop)
-- [p5js](https://github.com/atharvashukla/p5js)
-- [p5js-points](https://github.com/atharvashukla/p5js-points)
-- [pacman](https://github.com/atharvashukla/pacman)
-- [post-json](https://github.com/atharvashukla/post-json)
-- [ppl](https://github.com/atharvashukla/ppl)
-- [pragya-shukla](https://github.com/atharvashukla/pragya-shukla)
-- [pragyashukla](https://github.com/atharvashukla/pragyashukla)
-- [progress](https://github.com/atharvashukla/progress)
-- [racket-hackerrank-solutions](https://github.com/atharvashukla/racket-hackerrank-solutions)
-- [resume](https://github.com/atharvashukla/resume)
-- [scripts](https://github.com/atharvashukla/scripts)
-- [sean-website](https://github.com/atharvashukla/sean-website)
-- [st-xaviers-bms](https://github.com/atharvashukla/st-xaviers-bms)
-- [stackoverflow](https://github.com/atharvashukla/stackoverflow)
-- [startup](https://github.com/atharvashukla/startup)
-- [stats](https://github.com/atharvashukla/stats)
-- [syntax-parse](https://github.com/atharvashukla/syntax-parse)
-- [table-of-contents](https://github.com/atharvashukla/table-of-contents)
-- [table-sortable](https://github.com/atharvashukla/table-sortable)
-- [the-shuklas](https://github.com/atharvashukla/the-shuklas)
-- [theshuklas](https://github.com/atharvashukla/theshuklas)
-- [tiger](https://github.com/atharvashukla/tiger)
-- [tradeperry](https://github.com/atharvashukla/tradeperry)
-- [veer](https://github.com/atharvashukla/veer)
-- [yasnippet-snippets](https://github.com/atharvashukla/yasnippet-snippets)
+### Public Repositories
+
+- [**`atharvashukla`**](https://github.com/atharvashukla/atharvashukla)
+  A special repository. Its README.md appears on the public profile page
+- [**`p5ts-points`**](https://github.com/atharvashukla/p5ts-points)
+  A simple P5js project (implemented in TS). Shows two points, distance between them and their center
+- [**`get-markdown-metadata`**](https://github.com/atharvashukla/get-markdown-metadata)
+  Extracts file name and headings from a bunch of markdown files into a JSON format
+- [**`table-of-contents`**](https://github.com/atharvashukla/table-of-contents)
+  This repository. Lists the table of contents of github.com/atharvashukla
+- [**`drracket-sublime`**](https://github.com/atharvashukla/drracket-sublime)
+  Sublime monokai theme for DrRacket IDE
+- [**`minesweeper`**](https://github.com/atharvashukla/minesweeper)
+  Minesweeper in javascript using p5js and Minesweeper in racket using htdp/universe
+- [**`99-problems`**](https://github.com/atharvashukla/99-problems)
+  Solutions to [Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
+- [**`add`**](https://github.com/atharvashukla/add)
+  Adding two numbers in various languages, repl.it link provided. 
+- [**`bare-bones-site-generator`**](https://github.com/atharvashukla/bare-bones-site-generator)
+  A simple static site generator written in Racket. 
+- [**`coq-tactics-index`**](https://github.com/atharvashukla/coq-tactics-index)
+  A compilation of  useful coq tactic from various sources
+- [**`database`**](https://github.com/atharvashukla/database)
+  A custom database implementation in Racket
+- [**`syntax-parse`**](https://github.com/atharvashukla/syntax-parse)
+  Learning Racket's Syntax Parse
+- [**`racket-hackerrank-solutions`**](https://github.com/atharvashukla/racket-hackerrank-solutions)
+  Solutions to Hackerrank FP problems in Racket
+- [**`yasnippet-snippets`**](https://github.com/atharvashukla/yasnippet-snippets)
+  Useful snippets for the Emacs Yasnippet package 
+- [**`atharva-emacs`**](https://github.com/atharvashukla/atharva-emacs)
+  My emacs config
+- [**`ml-for-the-working-programmer`**](https://github.com/atharvashukla/ml-for-the-working-programmer)
+  Solutions to the book: ML for the working programmer
+- [**`koans`**](https://github.com/atharvashukla/koans)
+  Solutions to Clojure Koans
