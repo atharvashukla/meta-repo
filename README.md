@@ -1,7 +1,5 @@
 # Table of Contents
 
-### Public Repositories
-| Repository                                                                                            | Description                                                                                                                                     |
 | Repositories                     | Description                                                                                         |
 |----------------------------------|-----------------------------------------------------------------------------------------------------|
 | racket-macros                    | A bunch of code snippets and programs experimenting with and exploring Racket’s macro system.       |
